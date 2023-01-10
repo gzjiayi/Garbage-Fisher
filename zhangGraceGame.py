@@ -1,8 +1,3 @@
-# Name:        Grace Zhang
-# Date:        Jan, 22, 2020
-# Class:       ICS3U1-04
-# Description: Creating a game that has a theme of garbage and e-waste collection
-
 import pygame
 import random
 import math
